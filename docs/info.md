@@ -9,12 +9,19 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A half adder is a basic digital circuit used to add two single-bit binary numbers. It has two inputs, A and B, and produces two outputs: Sum and Carry. The Sum output is obtained using the XOR (exclusive OR) operation, while the Carry output is obtained using the AND operation.
 
 ## How to test
 
-Explain how to use your project
+By switching the input 1, input 2 turn ON and OFF, SUM and CARRY is generated. This can be observed from led. 
+
+| Input 1       | input 2       | sum      | carry     |
+|---------------|---------------|----------|-----------|
+| 0             | 0             | 0        | 0         |
+| 0             | 1             | 1        | 0         |
+| 1             | 0             | 1        | 0         |
+| 1             | 1             | 0        | 1         |
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware is required.
