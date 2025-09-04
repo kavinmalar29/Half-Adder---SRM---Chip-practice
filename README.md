@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template
 
-- [Read the documentation for project](docs/info.md)
+- Half Adder design is demonstrated using leds
 
 ## What is Tiny Tapeout?
 
